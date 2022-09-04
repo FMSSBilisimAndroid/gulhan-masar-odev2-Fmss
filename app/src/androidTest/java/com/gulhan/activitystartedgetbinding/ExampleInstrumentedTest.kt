@@ -1,4 +1,5 @@
-package com.dag.odev2fmss
+package com.gulhan.activitystartedgetbinding
+
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +20,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.dag.odev2fmss", appContext.packageName)
+        assertEquals("com.gulhan.activitystartedgetbinding", appContext.packageName)
     }
 }

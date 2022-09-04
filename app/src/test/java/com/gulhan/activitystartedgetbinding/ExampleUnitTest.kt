@@ -1,4 +1,4 @@
-package com.dag.odev2fmss
+package com.gulhan.activitystartedgetbinding
 
 import org.junit.Test
 
