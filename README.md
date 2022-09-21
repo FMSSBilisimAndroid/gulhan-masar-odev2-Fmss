@@ -32,3 +32,12 @@ User usr = dbContext.Users
 .FirstOrDefault(a => a.UserId == userId);
 ```
 Bu, ilişkili varlıkları sorgunun bir parçası olarak döndüren ve bir kerede büyük miktarda veri yükleyen yöntem bize zaman ve hız kazandırıyor.
+
+
+## video
+
+
+https://user-images.githubusercontent.com/109763090/191499868-ad00a4cc-9829-4a7a-afed-7b98c078d95f.mov
+
+
+
